@@ -7,6 +7,6 @@
 3. You will see a screen below:
 ![Bus Timer Firmware Update](/assets/OTA-update-page.jpeg)
 
-4. Use the attached firmware file found here: [Firmware Update](/firmware/firmware_updated_version_5f120.bin)
+4. Use the attached firmware file found here: [Firmware Update](./tree/main/firmware)
 
 5. The device will reboot upon update success. After you connect to it and reconfigure, you can navigate back to ```http://bus-aunty.local:8080``` and see the new version number ```5f120``` to verify that it has been updated.
